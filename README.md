@@ -1,0 +1,2 @@
+# dedlovskaya_omsu_information_systems
+Сервис торговой стратегии
